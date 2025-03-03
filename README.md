@@ -2,6 +2,8 @@
 
 A Swift macOS application to automate the process of creating new branches using GitFlow.
 
+Based on the better version of it I use from the Terminal. See [git_flow.sh](git_flow.sh)
+
 ## Screenshots
 
 | Main Screen | Settings Screen |
